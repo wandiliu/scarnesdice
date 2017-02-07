@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="user_roll_1">You rolled a 1! It\'s computer\'s turn.</string>
+    <string name="user_roll_2">You rolled a 2!</string>
+    <string name="user_roll_3">You rolled a 3!</string>
+    <string name="user_roll_4">You rolled a 4!</string>
+    <string name="user_roll_5">You rolled a 5!</string>
+    <string name="user_roll_6">You rolled a 6!</string>
+    <string name="comp_roll_6">Computer rolled a 6!</string>
+    <string name="comp_roll_5">Computer rolled a 5!</string>
+    <string name="comp_roll_4">Computer rolled a 4!</string>
+    <string name="comp_roll_3">Computer rolled a 3!</string>
+    <string name="comp_roll_2">Computer rolled a 2!</string>
+    <string name="comp_roll_1">Computer rolled a 1! It\'s your turn.</string>
+    <string name="user_hold">You hold!</string>
+    <string name="user_reset">You reset!</string>
+    <string name="comp_hold">Computer holds!</string>
+    <string name="comp_reset">Computer reset!</string>
+    <string name="score_1">1</string>
+    <string name="score_2">2</string>
+    <string name="score_3">3</string>
+    <string name="score_4">4</string>
+    <string name="score_5">5</string>
+    <string name="score_6">6</string>
+    <string name="clear_string"></string>
+    <string name="score_0"> 0 </string>
+    <string name="userscore">Your score: </string>
+    <string name="compscore">Computer score: </string>
+    <string name="yourscorethisround">Your score this round: </string>
+    <string name="compscorethisround">Computer\'s score this round: </string>
+    <string name="userwon">You won!!!  YAYAYAYAY </string>
+    <string name="userlost">You lost... :\'(</string>
+
+
+
+
+</resources>
+
